@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "datastructures"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"graph_adj_mat.h": "c",
+			"stdbool.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
